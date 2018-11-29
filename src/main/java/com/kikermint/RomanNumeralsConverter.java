@@ -1,6 +1,6 @@
 package com.kikermint;
 
-class RomanNumerals {
+class RomanNumeralsConverter {
 
     String convert(int number) {
         StringBuilder result = new StringBuilder();
